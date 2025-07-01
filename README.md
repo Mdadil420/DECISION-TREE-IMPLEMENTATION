@@ -9,4 +9,4 @@ MENTOR: NEELA SANTOSH
 
 ## OUTOPUT
 
-![Image](https://github.com/user-attachments/assets/69c6e726-a9a2-42ec-be8f-e5a00456a6cc)
+
